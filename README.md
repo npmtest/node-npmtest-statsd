@@ -1,6 +1,6 @@
 # npmtest-statsd
 
-#### test coverage for  [statsd (v0.8.0)](https://github.com/etsy/statsd)  [![npm package](https://img.shields.io/npm/v/npmtest-statsd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-statsd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-statsd.svg)](https://travis-ci.org/npmtest/node-npmtest-statsd)
+#### basic test coverage for  [statsd (v0.8.0)](https://github.com/etsy/statsd)  [![npm package](https://img.shields.io/npm/v/npmtest-statsd.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-statsd) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-statsd.svg)](https://travis-ci.org/npmtest/node-npmtest-statsd)
 
 #### Network daemon for the collection and aggregation of realtime application metrics
 
